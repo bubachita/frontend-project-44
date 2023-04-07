@@ -33,7 +33,7 @@ const gameProgression = () => {
     progression[i] = '..';
 
     // Формирование вопроса
-    const question = progression.join(', ');
+    const question = progression.join(' ');
     return [question, correctAnswer];
   };
 

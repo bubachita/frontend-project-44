@@ -8,14 +8,16 @@ Study project that includes 5 math text-based mini-games in form of dialog with 
 <h3>Setup</h3>
 <ul>
 <li>clone repository</li>
-<li>run <make install></li>
-<li>run <make publish></li>
-<li>register package with <npm link></li>
+<li>run make install</li>
+<li>run make publish</li>
+<li>register package with npm link</li>
+</ul>
 
 <h3>Usage</h3>
-Run in terminalone of the games by name: <brain-even>, <brain-calc>, <brain-gcd>, <brain-progression> or <brain-prime>.
+Run in terminalone of the games by name: brain-even, brain-calc, brain-gcd, brain-progression or brain-prime.
 
 <h3>ASCIINEMA EXAMPLES</h3>
+
 brain-even
 [![asciicast](https://asciinema.org/a/zFG1t54SsoJrJTPoq7Wwk229w.svg)](https://asciinema.org/a/zFG1t54SsoJrJTPoq7Wwk229w)
 
